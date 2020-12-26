@@ -1,0 +1,16 @@
+body {
+    background: #1d2124;
+}
+
+.list-lower {
+    background: #546e7a;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding-top: 5px;
+}
+.list-upper {
+    background: #607d8b;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 10px;
+}
